@@ -6,7 +6,7 @@
 ### age: 23
 | Telegram   | Viber | Email | Github |Phone |
 | --------   | ----- | ----- | ----- | ----- |
-| Clik to <p><a href="https://t.me/Denzero13"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/></a></p>|Clik to <p><a href="viber://chat?number=+380960692619"><img src="https://img.icons8.com/color/48/000000/viber.png"/></a></p>| Clik to denyspavliuk13@gmail.com | https://github.com/denzero13 | +380960692619 |
+| Clik to <p><a href="https://t.me/Denzero13"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/></a></p>|Clik to <p><a href="viber://chat?number=+380960692619"><img src="https://img.icons8.com/color/48/000000/viber.png"/></a></p>| Clik to denyspavliuk13@gmail.com | <img src="https://banner2.cleanpng.com/20180824/jtl/kisspng-computer-icons-logo-portable-network-graphics-clip-icons-for-free-iconza-circle-social-5b7fe46b0bac53.1999041115351082030478.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Github Icon png download - 512*512 - Free Transparent Logo png Download. -  CleanPNG / KissPNG" data-noaft="1" style="width: 527px; height: 304.489px; margin: 0px;"> | +380960692619 |
 
 ## Profile
 #### I like what I do, even when it doesn't work out. Because sometimes the process gives more.
