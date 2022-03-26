@@ -1,5 +1,5 @@
 
-## ============================= **Denys Pavliuk**===============================
+## ========================== **Denys Pavliuk**============================
 
 ### Network QA Engineer/ Python Automation
 ### city: Zhytomyr
