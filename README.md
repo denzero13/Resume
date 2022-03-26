@@ -1,4 +1,4 @@
-![Pavliuk](pavliuk.jpg)
+
 ## =============== **Denys Pavliuk**==============
 
 ### Network QA Engineer/ Python Automation
