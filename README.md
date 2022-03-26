@@ -1,7 +1,6 @@
 
-## ========================= **Denys Pavliuk** ============================
+## ======================= **Denys Pavliuk** ==========================
 
-### Network QA Engineer/ Python Automation
 ### city: Zhytomyr
 ### age: 23
 | Telegram   | Viber | Email | Github |Phone |
