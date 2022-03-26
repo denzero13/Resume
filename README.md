@@ -20,7 +20,7 @@ Pandas | Oracle Analytics | Vim | OS Windows | Docker |
 Plotly | SQL Oracle | Terminal | Microsoft Office | Mongo |
 NumPy | Oracle DB | Bash | Power BI | Nmap
 Dash | VirtualBox |  | Azure ML | TCP/IP
-Matplotlib | | | Active Directory |
+Matplotlib | | | Active Directory | GitHab |
 Selenium | | | cmd
 Flask | | | PowerShell
 OpenCV |
