@@ -4,9 +4,9 @@
 ### Network QA Engineer/ Python Automation
 ### city: Zhytomyr
 ### age: 23
-| Telegram   | Viber | Email | Phone |
-| --------   | ----- | ----- | ----- |
-| Clik to <p><a href="https://t.me/Denzero13"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/></a></p>|Clik to <p><a href="viber://chat?number=+380960692619"><img src="https://img.icons8.com/color/48/000000/viber.png"/></a></p>| Clik to denyspavliuk13@gmail.com | +380960692619 |
+| Telegram   | Viber | Email | Github |Phone |
+| --------   | ----- | ----- | ----- | ----- |
+| Clik to <p><a href="https://t.me/Denzero13"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/></a></p>|Clik to <p><a href="viber://chat?number=+380960692619"><img src="https://img.icons8.com/color/48/000000/viber.png"/></a></p>| Clik to denyspavliuk13@gmail.com | https://github.com/denzero13 | +380960692619 |
 
 ## Profile
 #### I like what I do, even when it doesn't work out. Because sometimes the process gives more.
