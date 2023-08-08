@@ -34,7 +34,7 @@ OpenCV |
 ## Employment 
 
 - ### 06.2020-12.2020: **ERP Adminstration & System Administrator**, company ***Vishpha***
-> Support for IFS ERP system based on Oracle DB, providing advice on working with the system, creating reports, fixing system errors, administration of office equipment, user support
+> Managed IFS ERP system based on Oracle DB, offering guidance on system usage and procedures.Created reports and addressed system errors to ensure the smooth functioning of the ERP system.Administered office equipment and provided user support for technical issues.
 
 <p  style="text-align: center;"><img  src="https://thepharma.media/static/storage/thumbs/180x180/d/7e/c29b0e41-40af479b121202610d4c14d6703f47ed.jpg?v=4316_1" srcset="https://thepharma.media/static/storage/thumbs/360x360/d/7e/76b4d166-40af479b121202610d4c14d6703f47ed.jpg?v=4316_1 1x" alt="Vishpha" loading="lazy"  style="width: 100px; height: 90.519px; margin: 0px: text-align: center;"/></p>
 
