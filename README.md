@@ -28,10 +28,7 @@ OpenCV |
 
 <p style="text-align: center;"><img src="https://cleandye.com/wp-content/uploads/2020/01/English-icon.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="English-icon - CleanDye" data-noaft="1" style="width: 112px; height: 112px; margin: 0px;"></p>
 
-- #### English 
----
-# 
-## Pre-Intermediate 
+- #### English Pre-Intermediate 
 
 - ### 06.2020-12.2020: **ERP Adminstration & System Administrator**, company ***Vishpha***
 > Managed IFS ERP system based on Oracle DB, offering guidance on system usage and procedures. Created reports and addressed system errors to ensure the smooth functioning of the ERP system. Administered office equipment and provided user support for technical issues.
