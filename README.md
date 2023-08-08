@@ -1,8 +1,8 @@
 
 ## ======================= **Denys Pavliuk** ==========================
 
-### city: Zhytomyr
-### age: 23
+### city: Lviv
+### age: 25
 | Telegram   | Viber | Email | Github |Phone |
 | --------   | ----- | ----- | ----- | ----- |
 | Clik to <p><a href="https://t.me/Denzero13"><img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/></a></p>|Clik to <p><a href="viber://chat?number=+380960692619"><img src="https://img.icons8.com/color/48/000000/viber.png"/></a></p>| Clik to denyspavliuk13@gmail.com | https://github.com/denzero13 | +380960692619 |
@@ -23,12 +23,17 @@ Matplotlib | | | Active Directory | GitHab |
 Selenium | | | cmd
 Flask | | | PowerShell
 OpenCV |
+pytest |
+pytest-bdd |
+ayncio |
 
 ## Language skils
 
 <p style="text-align: center;"><img src="https://cleandye.com/wp-content/uploads/2020/01/English-icon.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="English-icon - CleanDye" data-noaft="1" style="width: 112px; height: 112px; margin: 0px;"></p>
 
-- #### English Pre-Intermediate 
+- #### English Pre-Intermediate
+
+## Experience
 
 - ### 06.2020-12.2020: **ERP Adminstration & System Administrator**, company ***Vishpha***
 > Managed IFS ERP system based on Oracle DB, offering guidance on system usage and procedures. Created reports and addressed system errors to ensure the smooth functioning of the ERP system. Administered office equipment and provided user support for technical issues.
