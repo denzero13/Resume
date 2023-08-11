@@ -22,7 +22,6 @@ Dash | VirtualBox |  | Azure ML | TCP/IP
 Matplotlib | | | Active Directory | GitHab |
 Selenium | | | cmd
 Flask | | | PowerShell
-OpenCV |
 pytest |
 pytest-bdd |
 ayncio |
@@ -36,17 +35,17 @@ ayncio |
 ## Experience
 
 - ### 06.2020-12.2020: **ERP Adminstration & System Administrator**, company ***Vishpha***
-> Managed IFS ERP system based on Oracle DB, offering guidance on system usage and procedures. Created reports and addressed system errors to ensure the smooth functioning of the ERP system. Administered office equipment and provided user support for technical issues.
+> I managed the IFS ERP system based on Oracle DB, offering guidance on the use of the system and procedures. Created analytical reports and eliminated system errors to ensure smooth operation of the ERP system. Administered office equipment and provided technical support to users.
 
 <p  style="text-align: center;"><img  src="https://thepharma.media/static/storage/thumbs/180x180/d/7e/c29b0e41-40af479b121202610d4c14d6703f47ed.jpg?v=4316_1" srcset="https://thepharma.media/static/storage/thumbs/360x360/d/7e/76b4d166-40af479b121202610d4c14d6703f47ed.jpg?v=4316_1 1x" alt="Vishpha" loading="lazy"  style="width: 100px; height: 90.519px; margin: 0px: text-align: center;"/></p>
 
 - ### 02.2021-06.2022: **System Administrator**, company ***Rud***
- > Managed and maintained computer systems, ensuring optimal performance and security. Provided user support, troubleshooting technical issues to ensure smooth operations. Administered network and server infrastructure, optimizing efficiency and uptime. Developed and implemented auxiliary network monitoring systems, enhancing network reliability.
+ > I managed and maintained computer systems ensuring optimal performance and security. I provided support to users, solved technical problems to ensure smooth operation. I administered network and server infrastructure, optimizing efficiency and uptime. Developed and implemented auxiliary network monitoring systems that increase network reliability.
 
 <p style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/uk/thumb/8/86/Rud-logo.png/200px-Rud-logo.png"  style="width: 100px; height: 100.519px; margin: 0px: text-align: ceter;"></p>
 
 - ### 06.2022-until now: **Automation QA**, company ***Ajax***
- > Development of automated tests for the operating system in real time, which provide comprehensive verification of the software. Maintain and refactor existing test suites, improving test coverage and efficiency. Development of testing tools to optimize the testing process and increase productivity. Creation of a high-level scripting language for automated test creation that simplifies the process of writing tests.
+ > Development of automated tests for the operating system in real time, which provide a comprehensive verification of the software. I maintained existing test suites, improving test coverage and efficiency. Development of testing tools to optimize the testing process and increase productivity. Creation of a high-level scripting language for automated test creation that simplifies the process of writing tests.
 
 <p style="text-align: center;"><img src="https://bitelec.ch/2454467-large_default/ajax-alarmanlage-12v-psu-fuer-hub-2.jpg"  style="width: 100px; height: 100.519px; margin: 0px: text-align: ceter;"></p>
 --- 
